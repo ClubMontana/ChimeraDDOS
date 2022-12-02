@@ -1,12 +1,11 @@
-И так, вот и исходы вера ддос
+#And so, here are the outcomes of faith ddos
 
-Для настройки:
-1. Много дедиков 10 гб/c (линукс) 
-2. На все эти дедики устанавливаем Python
-3. Устанавливаем все бибилиотеки из файла requirements.txt
-4. запускаем python start.py
+For settings:
 
-Ну вроде и всё всем удачи!
-качаем в релизах.
+Lots of dediks 10 gb / s (linux)
+On all these dedics we install Python
+Install all libraries from the requirements.txt file
+run python start.py
+Well, good luck to everyone! download in releases.
 
-P.S Я не несу ответственности за ваши действия.
+P.S. I am not responsible for your actions.
