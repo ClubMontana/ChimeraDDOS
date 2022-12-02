@@ -1,6 +1,5 @@
-#And so, here are the outcomes of faith ddos
 
-For settings:
+Settings:
 
 Lots of dediks 10 gb / s (linux)
 On all these dedics we install Python
